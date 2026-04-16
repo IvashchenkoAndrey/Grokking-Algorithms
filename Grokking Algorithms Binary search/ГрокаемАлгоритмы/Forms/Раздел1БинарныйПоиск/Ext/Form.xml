@@ -3,7 +3,7 @@
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
 	<ChildItems>
 		<InputField name="КоличествоВМассиве" id="1">
-			<DataPath>Объект.КоличествоВМассиве</DataPath>
+			<DataPath>Объект.КонечноеЗначениеВМассиве</DataPath>
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="КоличествоВМассивеКонтекстноеМеню" id="2"/>
 			<ExtendedTooltip name="КоличествоВМассивеРасширеннаяПодсказка" id="3"/>

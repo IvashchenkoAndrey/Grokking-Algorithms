@@ -26,11 +26,11 @@
 		<ChildObjects>
 			<Attribute uuid="40d37e07-b202-4848-82c2-1b3f756fbb10">
 				<Properties>
-					<Name>КоличествоВМассиве</Name>
+					<Name>КонечноеЗначениеВМассиве</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Количество в массиве</v8:content>
+							<v8:content>Конечное значение в массиве</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
