@@ -35,6 +35,7 @@ https://github.com/IvashchenkoAndrey/Grokking-Algorithms/blob/master/Grokking%20
   По нажатию срабатывает рекурсивная функция которая последовательно выводит значения отсчета от заданного в поле ввода до "0".
 
 Исходный код с комментариями
+https://github.com/IvashchenkoAndrey/Grokking-Algorithms/blob/master/Grokking%20Algorithms%20Recursion/ГрокаемАлгоритмыРекурсия/Forms/Раздел3Рекурсия/Ext/Form/Module.bsl
 
 разработано на 1С:Предприятие 8.5 (8.5.1.1150) 
 режим совместимости Версия 8.3.27 
