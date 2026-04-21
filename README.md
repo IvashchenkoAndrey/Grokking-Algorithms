@@ -43,6 +43,7 @@ https://github.com/IvashchenkoAndrey/Grokking-Algorithms/blob/master/Grokking%20
 - Демонстрация исходного массива
 
 Исходный код с комментариями
+https://github.com/IvashchenkoAndrey/Grokking-Algorithms/blob/master/Grokking%20Algorithms%20Quick%20sort/ГрокаемАлгоритмыБыстраяСортировка/Forms/Раздел4БастраяСортировка/Ext/Form/Module.bsl
 
 
 разработано на 1С:Предприятие 8.5 (8.5.1.1150) 
